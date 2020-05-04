@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.floatdiv {
+   position: fixed;
+/*    width: 175px; */
+   display: inline-block;
+   right: 15px; /* 창에서 오른쪽 길이 */
+   bottom: 5%; /* 창에서 위에서 부터의 높이 */
+   background-color: transparent;
+   margin: 0;
+   ul
+   {list-style-type:none;}
+}
+body {
+	text-align: center;
+}
+
+.footerbar {
+	text-decoration: none;
+	text-align: left;
+	overflow: hidden;
+	background: #dae3f3;
+	border-top : 2px solid #B4C7E7;
+}
+.footerbar a{
+	text-decoration: none;
+	color: white;
+	margin-left: 40px;
+}
+.footerbar a:hover{
+	background-color: #fff7e1;
+}
+ul {
+  list-style-type : none;
+  }
+.scroll{
+	border: 0;
+	color: white;
+	background: rgba(138, 138, 138, 0.5);
+	font-size: 17px;
+}
+.scroll:hover{
+	background: rgba(0, 0, 0, 0.5);
+}

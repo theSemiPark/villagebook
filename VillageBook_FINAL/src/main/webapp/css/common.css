@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+#header{
+	position: relative;
+	z-index: 2;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	border: 1px solid black;
+	width: 700px;
+}
+
+th {
+	background: #dae3f3;
+}
+.list tr:nth-child(2n+1){
+	background-color:#f1f2f3;
+}
