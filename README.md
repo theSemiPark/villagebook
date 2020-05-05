@@ -1,6 +1,6 @@
 ## 도서관 책 대여/배달대행 중개 서비스 동네BOOK(2020)
 - 서울시내 구립도서관의 도서를 배달대행 서비스를 통해 대여/반납할 수 있도록 중개하는 서비스입니다.
-- Spring/Java, HTML, CSS, JavaScript, jQuery, Ajax / Oracle
+- 기여: 개발자 (사용언어 및 도구 : Spring/Java, HTML, CSS, JavaScript, jQuery, Ajax / Oracle / Eclipse)
 
 
 ### 👩 일반사용자
